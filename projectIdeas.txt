@@ -1,4 +1,4 @@
-Here are 15 web development projects sorted from beginner to advanced to help revise/practice web development:
+Here are 16 web development projects sorted from beginner to advanced to help revise/practice web development:
 
 ## Beginner Projects (1-6)
 1. Todo List with Categories
