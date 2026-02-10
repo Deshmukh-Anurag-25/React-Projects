@@ -1,68 +1,61 @@
-Here are 60 web development projects organized by skill level, perfect for you and your colleague to work on together:
+Here are 16 web development projects sorted from beginner to advanced to help revise/practice web development:
 
-## Beginner Projects (1-20)
-2. Todo List with Categories
+## Beginner Projects (1-6)
+1. Todo List with Categories
 Task manager with categories, priority levels, and filters.
 
-3. Weather Dashboard
+2. Weather Dashboard
 Multi-city weather app with 5-day forecast and geolocation.
 
-5. Calculator
-Scientific calculator with history of calculations.
-
-8. Random Quote Generator
+3. Random Quote Generator
 Display random quotes with share functionality and favorites.
 
-9. Pomodoro Timer
-Productivity timer with break intervals and task tracking.
-
-10. BMI Calculator
-Health calculator with history and visual indicators.
-
-13. Unit Converter
+4. Unit Converter
 Convert between different units (length, weight, temperature).
 
-16. Digital Clock & Alarm
+5. Digital Clock & Alarm
 Clock with multiple timezones and alarm functionality.
 
-18. Note Taking App
+6. Note Taking App
 Simple notes app with search and basic formatting.
 
 
-
-## Intermediate Projects (21-40)
-22. Movie Database Browser
+## Intermediate Projects (7-9)
+7. Movie Database Browser
 Netflix-style interface with search, filters, watchlist, and reviews.
 
-25. Social Media Dashboard
-Analytics dashboard with charts, graphs, and data visualization.
-
-31. URL Shortener
+8. URL Shortener
 Shorten URLs with analytics and custom aliases.
 
-32. Music Player
+9. Music Player
 Audio player with playlists, shuffle, repeat, and visualizer.
 
 
 
-## Advanced Projects (41-60)
-41. Video Streaming Platform
+## Advanced Projects (10-16)
+10. Video Streaming Platform
 YouTube-like platform with upload, playback, subscriptions, and recommendations.
 
-44. Spotify Clone
+11. Spotify Clone
 Full music streaming with playlists, recommendations, and social features.
 
-50. Trading Platform
+12. Trading Platform
 Stock/crypto trading simulator with real-time data and charts.
 
-53. Netflix Clone
+13. Netflix Clone
 Streaming service with content management, user profiles, and AI recommendations.
 
-54. WhatsApp Clone
+14. WhatsApp Clone
 End-to-end encrypted messaging with voice/video calls.
 
-59. Google Drive Clone
+15. Google Drive Clone
 Cloud storage with file management, sharing, and collaboration.
+
+16. RESUME SHORTLISTING using AGENTIC AI
+This system utilizes an autonomous agent workflow (e.g., using CrewAI or LangGraph) to analyze candidate resumes against a specific job description. 
+Instead of simple keyword matching, the agents act as intelligent recruiters.
+They evaluate nuanced skills, quantify experience relevance, and generate a ranked list of the top candidates (e.g., Top 5 or 10) based on deep semantic understanding.
+
 
 Collaboration Tips:
 - Divide features between frontend/backend or by components
