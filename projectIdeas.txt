@@ -7,8 +7,6 @@ Task manager with categories, priority levels, and filters.
 3. Weather Dashboard
 Multi-city weather app with 5-day forecast and geolocation.
 
-5. Calculator
-Scientific calculator with history of calculations.
 
 8. Random Quote Generator
 Display random quotes with share functionality and favorites.
